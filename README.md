@@ -1,1 +1,2 @@
-# AI-Practicals
+# ADA
+-Practicals
